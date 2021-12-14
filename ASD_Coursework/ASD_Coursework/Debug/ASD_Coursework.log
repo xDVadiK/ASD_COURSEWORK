@@ -1,0 +1,5 @@
+﻿  ASD_Coursework_Main.cpp
+C:\Users\xdvad\source\repos\ASD_Coursework\ASD_Coursework\Calculator.h(963): warning C4715: Arithmetic_operation: значение возвращается не при всех путях выполнения
+C:\Users\xdvad\source\repos\ASD_Coursework\ASD_Coursework\Calculator.h(952): warning C4715: Calculating_the_function_value: значение возвращается не при всех путях выполнения
+C:\Users\xdvad\source\repos\ASD_Coursework\ASD_Coursework\Calculator.h(510): warning C4715: String_mathematical_expression::get_the_symbol: значение возвращается не при всех путях выполнения
+  ASD_Coursework.vcxproj -> C:\Users\xdvad\source\repos\ASD_Coursework\Debug\ASD_Coursework.exe
